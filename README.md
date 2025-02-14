@@ -17,7 +17,7 @@ Another example: what if you want to (and most of the time you do) subtly modula
 
 All these scenarios can be easily faced applying some voltage processing to the "dry" LFO signal, but adding external modules means increased use of "vital" rack space.
 
-Since I already made some good-working [external modules for signal processing](https://www.instructables.com/DIY-Synth-Modules-a-Modular-Approach-Ep2/), I knew I could add some of them with little-to-no waste of space to my previous LFO project. In particular, two extra circuits found their way inside the module: an active attenuator/amplification stage and a level shifter (DC offsetter).
+Since I already made some good-working [external modules for signal processing](https://www.instructables.com/DIY-Synth-Modules-a-Modular-Approach-Ep2/), I knew I could add some of them with little-to-no waste of space to [my previous LFO project](https://www.instructables.com/Low-Frequency-Oscillator-Modules/). In particular, two extra circuits found their way inside the module: an active attenuator/amplification stage and a level shifter (DC offsetter).
 
 Even with this increase in features (which also means "increased components count") I could keep the module in the 6HP ballpark. This made the faceplate a little more crowded, but still more than decent operation-wise.
 
