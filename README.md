@@ -1,5 +1,12 @@
 # Low Frequency Oscillator Module for Synthesizers V2
 A feature-loaded LFO module for Eurorack synthesizers.
+Features:
+- two waveforms: triangle and square
+- control over triangle wavefor skew and square duty-cycle
+- three frequency ranges (0-9Hz, 0-90Hz and 0-900Hz)
+- control over gain (from total attenuation to 7Vpp)
+- control over bias level
+- LED visual indication about wave characteristics
 
 # Layout and Module Design
 Low frequency oscillators are very common modulation sources in eurorack synthesizers mainly because of their effectivness and ease of use. Despite this, they often require some external module to reach destination module's modulation soft-spot.
