@@ -3,8 +3,8 @@ A feature-loaded LFO module for Eurorack synthesizers.
 Features:
 - two waveforms: triangle and square
 - control over triangle wavefor skew and square duty-cycle
-- three frequency ranges (0-9Hz, 0-90Hz and 0-900Hz)
-- control over gain (from total attenuation to 7Vpp)
+- three frequency ranges (0-10Hz, 0-100Hz and 0-1000Hz)
+- control over gain (from total attenuation to 8Vpp)
 - control over bias level
 - LED visual indication about wave characteristics
 
