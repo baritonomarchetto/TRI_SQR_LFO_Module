@@ -36,7 +36,7 @@ Another addition is a voltage shifter circuit to bias waveforms to positive or n
 Voltage shifting is obtained through the most basic (inverting) mixer, where one of the two LFO waves and DC offset voltage are added toghether. The signal is then inverted (again) to restore it's original polarity.
 User has control over the gain of this final op-amp stage, where the waveform amplitude can span a "zero" to "2X" range.
 
-Waves peak-to-peak voltage depends on clamping LED's color and final stage amplification. I have used white LEDs to have 7Vpp circa when the gain potentiometer is turned fully clockwise (2X amplification).
+Waves peak-to-peak voltage depends on clamping LED's color and final stage amplification. I have used white LEDs to have 8Vpp circa when the gain potentiometer is turned fully clockwise (2X amplification).
 
 The circuit works on +/-12V dual voltage, but should also work on +/-15V.
 
