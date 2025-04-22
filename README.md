@@ -6,7 +6,7 @@ Features:
 - three frequency ranges (0-10Hz, 0-100Hz and 0-1000Hz)
 - control over gain (from total attenuation to 8Vpp)
 - control over bias level
-- LED visual indication about wave characteristics
+- Dual-LED visual indication about wave characteristics
 
 # Layout and Module Design
 Low frequency oscillators are very common modulation sources in eurorack synthesizers mainly because of their effectivness and ease of use. Despite this, they often require some external module to reach destination module's modulation soft-spot.
